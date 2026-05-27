@@ -1,0 +1,14 @@
+__pycache__
+.env
+behaviorDataset
+images
+ImageSets
+logs
+runs
+video
+weaponDataset
+trainedKJ4notAll2_model.keras
+yolov8m-pose.pt
+yolov8n-pose.pt
+yolov8n.pt
+yolov8x-pose.pt
